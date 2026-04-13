@@ -10,7 +10,7 @@ kiwisolver==1.4.4
 matplotlib==3.7.0
 packaging==23.0
 perlin-noise==1.12
-Pillow==12.1.1
+Pillow==12.2.0
 prompt-toolkit==3.0.36
 pycparser==2.21
 pycryptodome==3.19.1
